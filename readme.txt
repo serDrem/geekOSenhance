@@ -1,4 +1,4 @@
-In order to be able just run our compiled project, skip to section 2.
+In order to be able just run this compiled project, skip to section 2.
 
 Note: your openSUSE should be 32 bit.
 
@@ -17,7 +17,7 @@ To install bochs emulator, search in google "opensuse bochs" then downloaded the
   then 
   - By double clicking on the downloaded file, you will be installing it.
 
-To run our compiled project:
+To run this compiled project:
 from the command line, navigate to the directory called /build where the files 
 fd.img & diskc.img
 located and type the following command
