@@ -1,0 +1,18 @@
+grep: cpy: No such file or directory
+grep: ../: Is a directory
+grep: ../include: Is a directory
+grep: ../include/geekos: Is a directory
+grep: ../include/libc: Is a directory
+grep: ../scripts: Is a directory
+grep: ../build: Is a directory
+grep: ../build/tools: Is a directory
+grep: ../build/common: Is a directory
+grep: ../build/geekos: Is a directory
+grep: ../build/libc: Is a directory
+grep: ../build/user: Is a directory
+grep: ../src: Is a directory
+grep: ../src/tools: Is a directory
+grep: ../src/common: Is a directory
+grep: ../src/geekos: Is a directory
+grep: ../src/libc: Is a directory
+grep: ../src/user: Is a directory

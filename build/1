@@ -1,0 +1,6 @@
+In file included from ../include/geekos/user.h:15:0,
+                 from ../src/geekos/main.c:28:
+../include/geekos/segment.h:43:5: warning: ‘packed’ attribute ignored for field of type ‘uchar_t’ [-Wattributes]
+geekos/main.o: In function `Main':
+/home/sdremin/workspace/geek_os_projects/geekos-0.3.0/src/project3/build/../src/geekos/main.c:74: undefined reference to `Init_Semaphores'
+make: *** [geekos/kernel.exe] Error 1
